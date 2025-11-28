@@ -129,7 +129,7 @@ Vercel (Frontend)
 
 Render (Backend)
 
-🔗 Live URL: Add your Vercel link here
+
 
 🛠️ Future Enhancements
 
